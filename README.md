@@ -13,7 +13,6 @@
 ## 💻 Tecnologias usadas
 - HTML
 - CSS
-- SCSS
 - TailwindCSS
 
 ## 💡 Idealizado e feito por
