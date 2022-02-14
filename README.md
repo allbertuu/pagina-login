@@ -4,16 +4,15 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/allbertuu/pagina-login?style=for-the-badge)
 
 > ⚡ Uma página de login responsiva e elegante.
+🚀 [Acesse o site aqui!](https://allbertuu.github.io/pagina-login/) 🚀  
 
 ## ⭐ Projeto
 ***Preview devices***  
 <img src="./screenshots/banner.png" alt="Imagem de vizualização em diferentes dispositivos">  
-🚀 [Acesse o site aqui!](https://allbertuu.github.io/pagina-login/) 🚀  
 
 ## 💻 Tecnologias usadas
 - HTML
 - CSS
-- JavaScript
 - SCSS
 - TailwindCSS
 
