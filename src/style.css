@@ -468,8 +468,8 @@ Ensure the default browser behavior of the `hidden` attribute.
   --tw-backdrop-sepia:  ;
 }
 
-body {
-  min-width: 454px;
+html {
+  min-width: 500px;
 }
 
 .btn {
