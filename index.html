@@ -8,42 +8,42 @@
     <title>Login | Empresa</title>
 </head>
 <body class="bg-slate-50">
-    <div class="grid grid-cols-1 lg:grid-cols-2">
+    <main class="main">
 
-        <div class="bg-cyan-600 lg:min-h-screen lg:flex lg:items-center p-8 sm:p-12">
+        <section class="area-welcome">
             <div class="flex-grow">
-                <h1 class="text-white font-semibold text-center text-2xl sm:text-5xl mb-2">
+                <h1 class="titulo">
                     Seja bem-vindo(a)
                 </h1>
-                <p class="text-center italic text-cyan-200 sm:text-lg">
+                <p class="subtitulo">
                     Faça seu login para começar
                 </p>
             </div>
-        </div>
+        </section>
 
-        <div class="lg:min-h-screen lg:flex lg:items-center p-12 lg:p-24 xl:p-48">
-            <div class="flex-grow bg-white shadow-xl rounded-md border-gray-300 p-8 min-w-max">
+        <section class="area-login">
+            <div class="card-login">
                 <div class="sm:flex sm:items-center">
-                    <img src="./src/img.jpg" alt="Rosto de um homem" class="sm:flex-shrink-0 mx-auto sm:mx-0 h-24 rounded-full">
+                    <img src="./src/img.jpg" alt="Rosto de um homem" class="card-login-img">
                     <div class="sm:ml-4 sm:text-left text-center">
                         <p class="text-xl">Mario Oliveira</p>
                         <p class="text-sm text-gray-600">Gerente de suporte técnico</p>
                         <div class="mt-2">
-                            <button type="button" class="btn btn-red text-xs">
+                            <button type="button" class="btn btn-red">
                                 Não é Mario?
                             </button>
                         </div>
                     </div>
                 </div>
-                <form class="flex w-full mt-8">
+                <form class="form">
                     <input type="password" name="password" placeholder="Sua senha" class="form-input">
-                    <button type="submit" class="form-button btn btn-teal text-sm">
+                    <button type="submit" class="form-button btn btn-teal">
                         Entrar
                     </button>
                 </form>
             </div>
-        </div>
+        </section>
 
-    </div>
+    </main>
 </body>
 </html>
