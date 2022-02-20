@@ -481,6 +481,7 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 
 .area-welcome {
+  position: relative;
   --tw-bg-opacity: 1;
   background-color: rgb(8 145 178 / var(--tw-bg-opacity));
   padding: 2rem;
@@ -507,6 +508,7 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 
 .area-login {
+  position: relative;
   padding: 2rem;
 }
 
@@ -559,6 +561,86 @@ Ensure the default browser behavior of the `hidden` attribute.
   margin-top: 2rem;
   display: flex;
   width: 100%;
+}
+
+.footer {
+  margin-top: 2.5rem;
+  text-align: center;
+  font-style: italic;
+  --tw-text-opacity: 1;
+  color: rgb(8 145 178 / var(--tw-text-opacity));
+}
+
+.footer-left {
+  display: none;
+}
+
+.footer-right {
+  display: none;
+}
+
+@media (min-width: 1024px) {
+  .footer-left {
+    position: absolute;
+  }
+
+  .footer-left {
+    bottom: 1.25rem;
+  }
+
+  .footer-left {
+    right: 0.5rem;
+  }
+
+  .footer-left {
+    display: block;
+  }
+
+  .footer-left {
+    font-weight: 600;
+  }
+
+  .footer-left {
+    font-style: italic;
+  }
+
+  .footer-left {
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255 / var(--tw-text-opacity));
+  }
+
+  .footer-right {
+    position: absolute;
+  }
+
+  .footer-right {
+    bottom: 1.25rem;
+  }
+
+  .footer-right {
+    left: 0.5rem;
+  }
+
+  .footer-right {
+    display: block;
+  }
+
+  .footer-right {
+    font-weight: 600;
+  }
+
+  .footer-right {
+    font-style: italic;
+  }
+
+  .footer-right {
+    --tw-text-opacity: 1;
+    color: rgb(8 145 178 / var(--tw-text-opacity));
+  }
+
+  .footer {
+    display: none;
+  }
 }
 
 .btn {
@@ -737,9 +819,18 @@ Ensure the default browser behavior of the `hidden` attribute.
   line-height: 1.25rem;
 }
 
+.font-semibold {
+  font-weight: 600;
+}
+
 .text-gray-600 {
   --tw-text-opacity: 1;
   color: rgb(75 85 99 / var(--tw-text-opacity));
+}
+
+.hover\:underline:hover {
+  -webkit-text-decoration-line: underline;
+          text-decoration-line: underline;
 }
 
 @media (min-width: 640px) {
