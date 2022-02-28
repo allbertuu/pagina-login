@@ -3,16 +3,15 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/allbertuu/pagina-login?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/allbertuu/pagina-login?style=for-the-badge)
 
-> ⚡ Uma página de login responsiva e elegante.
-🚀 [Acesse o site aqui!](https://allbertuu.github.io/pagina-login/) 🚀  
-
-## ⭐ Projeto
-***Preview devices***  
 <img src="./screenshots/banner.png" alt="Imagem de vizualização em diferentes dispositivos">  
 
+🚀 [Acesse o site aqui!](https://allbertuu.github.io/pagina-login/) 🚀  
+
+## 💬 Sobre o projeto
+> Este projeto foi criado com o objetivo de colocar em prática os conhecimentos adquiridos sobre o framework de baixo nível _TailwindCSS_. Utilizei conceitos avançados de flexbox, grid, e responsividade.
+
 ## 💻 Tecnologias usadas
-- HTML
-- CSS
+- HTML & CSS
 - TailwindCSS
 
 ## 💡 Idealizado e feito por
