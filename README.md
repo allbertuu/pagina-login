@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/allbertuu/pagina-login?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/allbertuu/pagina-login?style=for-the-badge)
 
-<img src="./screenshots/banner.png" alt="Imagem de vizualização em diferentes dispositivos">  
+<img src="./screenshots/banner-pagina_login.png" alt="Imagem de vizualização em diferentes dispositivos">  
 
 🚀 [Acesse o site aqui!](https://allbertuu.github.io/pagina-login/) 🚀  
 
